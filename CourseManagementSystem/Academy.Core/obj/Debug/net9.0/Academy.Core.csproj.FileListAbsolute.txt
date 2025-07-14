@@ -1,0 +1,11 @@
+C:\Users\Softlaptop\source\repos\CourseManagementSystem\Academy.Core\obj\Debug\net9.0\Academy.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Softlaptop\source\repos\CourseManagementSystem\Academy.Core\obj\Debug\net9.0\Academy.Core.AssemblyInfoInputs.cache
+C:\Users\Softlaptop\source\repos\CourseManagementSystem\Academy.Core\obj\Debug\net9.0\Academy.Core.AssemblyInfo.cs
+C:\Users\Softlaptop\source\repos\CourseManagementSystem\Academy.Core\obj\Debug\net9.0\Academy.Core.csproj.CoreCompileInputs.cache
+C:\Users\Softlaptop\source\repos\CourseManagementSystem\Academy.Core\bin\Debug\net9.0\Academy.Core.deps.json
+C:\Users\Softlaptop\source\repos\CourseManagementSystem\Academy.Core\bin\Debug\net9.0\Academy.Core.dll
+C:\Users\Softlaptop\source\repos\CourseManagementSystem\Academy.Core\bin\Debug\net9.0\Academy.Core.pdb
+C:\Users\Softlaptop\source\repos\CourseManagementSystem\Academy.Core\obj\Debug\net9.0\Academy.Core.dll
+C:\Users\Softlaptop\source\repos\CourseManagementSystem\Academy.Core\obj\Debug\net9.0\refint\Academy.Core.dll
+C:\Users\Softlaptop\source\repos\CourseManagementSystem\Academy.Core\obj\Debug\net9.0\Academy.Core.pdb
+C:\Users\Softlaptop\source\repos\CourseManagementSystem\Academy.Core\obj\Debug\net9.0\ref\Academy.Core.dll
